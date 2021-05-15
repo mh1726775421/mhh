@@ -5,8 +5,15 @@
   </div>
 </template>
 <script>
-export default{
+export default {
   name:'App',
+  data() {
+      return {}
+    },
+  computed:{},
+  watch:{},
+  created(){},
+  methods:{}
 }
 </script>
 <style>
